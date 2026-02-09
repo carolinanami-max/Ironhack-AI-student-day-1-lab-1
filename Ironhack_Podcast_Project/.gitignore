@@ -1,0 +1,28 @@
+# Audio files
+*.mp3
+*.wav
+*.m4a
+
+# Environment
+.env
+.env.backup
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output folders
+output/
+final_meditation/
+meditation_parts/
+ironhack_mindfulness_podcast_final/
+final_podcast/
+
+# Test files
+test_*.mp3
+voice_test_*.mp3
+simple_test.mp3
+
+# IDE files
+.vscode/
+.DS_Store
