@@ -1,0 +1,10 @@
+{
+  "total_products": 3,
+  "successful": 3,
+  "failed": 0,
+  "success_rate": "100.0%",
+  "total_tokens": 26761,
+  "timestamp": "2026-02-11T15:40:56.686840",
+  "model_used": "gpt-4o-mini",
+  "failed_products": []
+}
