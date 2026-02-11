@@ -1,1 +1,0 @@
-# Ironhack-AI-student-day-1-lab-1
